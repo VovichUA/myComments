@@ -1,4 +1,4 @@
-1. `cd path/to/locale/folder/rinkli.com`
+1. `cd path/to/locale/folder/myComments`
 2. copy `.env.example` past `.env`
 3. configure `.env`
 4. run `docker-compose up -d --build`
